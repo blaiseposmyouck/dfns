@@ -2,85 +2,71 @@
   {
     "token-name": "Algorand",
     "token-symbol": "ALGO",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
   },
   {
     "token-name": "Bitcoin",
     "token-symbol": "BTC",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
   },
   {
     "token-name": "BNB",
     "token-symbol": "BNB",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
   {
     "token-name": "Cardano",
     "token-symbol": "ADA",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
   },
   {
     "token-name": "Centrifuge",
     "token-symbol": "CFG",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png"
   },
   {
     "token-name": "Dogecoin",
     "token-symbol": "DOGE",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
   },
   {
     "token-name": "Ethereum",
     "token-symbol": "ETH",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
   },
   {
     "token-name": "NEAR Protocol",
     "token-symbol": "NEAR",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
   },
   {
     "token-name": "Polkadot",
     "token-symbol": "DOT",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
   },
   {
     "token-name": "Polygon",
     "token-symbol": "MATIC",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
   },
   {
     "token-name": "Ripple",
     "token-symbol": "XRP",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
   },
   {
     "token-name": "Solana",
     "token-symbol": "SOL",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
   },
   {
     "token-name": "Stellar",
     "token-symbol": "XLM",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
   },
   {
     "token-name": "Tezos",
     "token-symbol": "XTZ",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
   }
 ]
